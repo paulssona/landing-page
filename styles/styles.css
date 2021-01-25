@@ -14,9 +14,6 @@
 .logo-dot {
     color: #33A2E0;
 }
-.logo-inline {
-    display: inline-block;
-}
 .nav-font {
     font-family: Roboto;
     font-style: normal;
@@ -89,7 +86,7 @@
     font-weight: normal;
     font-size: 20px;
     line-height: 32px;
-    max-width: 584px;
+    max-width: 583px;
     margin-left: 200px;
     margin-top: 10px;
     /* or 160% */
@@ -119,4 +116,13 @@
     line-height: 32px;
     text-align: center;
     letter-spacing: 0.02em; 
+}
+.section-inline {
+    display: inline-block;
+}
+.img-front {
+    align-content: center;
+}
+section {
+    display: inline-block;
 }
